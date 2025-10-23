@@ -3,7 +3,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Language: Google Apps Script](https://img.shields.io/badge/Language-Google%20Apps%20Script-yellow)
 ![Project: Webhook](https://img.shields.io/badge/Project-GAS%20Webhook-lightgrey)
-![GitHub release](https://img.shields.io/github/v/release/Rnsystem/gas-webhook-spreadsheet-sync)
 
 ---
 
